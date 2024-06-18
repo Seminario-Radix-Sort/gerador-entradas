@@ -1,0 +1,1 @@
+Gerador de arquivos com dados de entrada para testar algoritmos de ordenação, com foco no Radixsort.

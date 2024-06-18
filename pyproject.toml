@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gerador-inteiros-python"
+version = "0.1.0"
+description = "Gerador de arquivos com números pseudo-aleatórios, para testes com radix-sort em diferentes linguagens de programação."
+authors = ["Guilherme Alvarenga <gui.alvarengas234@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
